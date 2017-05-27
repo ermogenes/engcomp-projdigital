@@ -1,0 +1,16 @@
+|S03E01
+a <= or1.DB_MAX_OUTPUT_PORT_TYPE
+m0 => not1.IN0
+m0 => and3.IN0
+m0 => and4.IN0
+m0 => and2.IN0
+m1 => and1.IN1
+m1 => and3.IN1
+m1 => and4.IN1
+m1 => not2.IN0
+m2 => and1.IN2
+m2 => not3.IN0
+m2 => and4.IN2
+m2 => and2.IN2
+
+
